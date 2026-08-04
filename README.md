@@ -3,15 +3,17 @@
 - Consider [donating!](https://ko-fi.com/cutzuu)
 - ~~Download [here!](https://modrinth.com/plugin/ghastsoplenty)~~
 
-## Contributing
-Check [here](https://github.com/cutzuu/.github/blob/main/documentation/contributing.md) for details.
 
-### Features
+## Features
+All features can be toggled and adjusted.
 - Droppable Ender Chests.
 - Insta-Kill Withers to prevent lag/griefing.
-- More soon.
+- Unbreakable Anvils
+- Speed Boost at World Center for Spawns (Adjustable Width)
+- Anti-Lava Casting after certain height
 
-
+## Contributing
+Check [here](https://github.com/cutzuu/.github/blob/main/documentation/contributing.md) for details.
 
 ## Copyright
 ### Copyright (c) 2026 Cutzuu. All rights reserved except where explicitly granted.
