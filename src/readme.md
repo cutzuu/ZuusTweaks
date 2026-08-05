@@ -1,4 +1,4 @@
-# Source code for ZuuServer.
+# Source code for ZuusTweaks.
 
 Follow my copyright. All distributions must provide credit.
 
