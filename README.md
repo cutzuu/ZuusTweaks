@@ -26,6 +26,8 @@ Various perks for the world center. Can be added for any world in config.
 - Can rotate item frames
 - Can stomp on crops
 - Probably other things but don't know.
+- Can pop items out of item frames.
+- Chests in "Spawn" cant open if BlockManipulation is toggled on.
 
 ## Contributing
 Check [here](https://github.com/cutzuu/.github/blob/main/documentation/contributing.md) for details.
