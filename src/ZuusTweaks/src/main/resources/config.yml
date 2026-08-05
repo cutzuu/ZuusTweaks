@@ -1,0 +1,66 @@
+#-----------------------------------------------#
+#                   ZuusTweaks
+#
+#                    Cutzuu
+#-----------------------------------------------#
+# https://github.com/cutzuu/
+
+
+#-----------------------------------------------#
+# Toggles
+#-----------------------------------------------#
+
+DroppableEnderChest: true
+
+InstaKillWither: true
+
+UnbreakableAnvils: true
+
+# Saplings do not drop at all.
+LimitedTrees: false
+
+# If you don't want, just set to 400.
+AntiLavaCasting: 70
+
+#-----------------------------------------------#
+# Server Spawn Configs
+#-----------------------------------------------#
+# To bypass, perm is "zuusTweaks.bypass"
+
+# These Worlds will have SpawnEffects at their center.
+# Works for dimensions as well!
+WorldNames:
+  - world
+  - hub_oasis
+  - hub_proxy2
+
+# This is how many blocks from X to -X and Z and -Z. Center of world.
+ServerSpawnSize: 150
+
+# Within the size above - Water/Lava won't flow near/at spawn.
+BlockLiquidFlow: false
+
+# Within the size above - Cannot break/place blocks, signs, etc.
+# To bypass, perm is "zuusTweaks.bypass"
+BlockManipulation: false
+
+# Within the size above - Have increased foot speed. (FOV not affected)
+SpeedBoost: false
+
+# Within the size above - Block explosions from mobs and TNT
+BlockExplosions: false
+
+# Within the size above - Players cannot be harmed.
+BlockPlayerDamage: false
+
+# Within the size down - Hunger will not go down.
+BlockPlayerHunger: false
+
+# Within the size down - Mobs cannot be harmed.
+BlockHurtingMobs: false
+
+# Within the size down - Named Mobs cannot be harmed.
+BlockHurtingNamedMobs: false
+
+# Within the size down - Monster won't chase and endlessly attack.
+BlockMonsterAgro: false

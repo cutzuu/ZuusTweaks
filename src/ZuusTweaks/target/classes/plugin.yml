@@ -1,0 +1,20 @@
+name: ZuusTweaks
+version: '1.0.0'
+
+main: me.cutzuu.zuusTweaks.main
+api-version: '26.2'
+
+permissions:
+  zuustweaks.bypass:
+    description: Can place and break blocks at the World Centers(Server Spawns)
+    default: false
+  zuustweaks.reload:
+    description: Allows user to reload the configuration.
+    default: op
+
+commands:
+  reloadconfig:
+    description: Reloads the ZuusTweaks config
+    usage: /zuustweaks <subcommand>
+    aliases: [ zuutweaks, ztweaks, ztweak, zuutweak ]
+    permission: zuustweaks.reload
