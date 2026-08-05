@@ -10,6 +10,7 @@ All features can be toggled and adjusted.
 - Insta-Kill Withers to prevent lag/griefing.
 - Unbreakable Anvils
 - Speed Boost at World Center for Spawns (Adjustable Width)
+- Anti-Break/Place at spawn. (Adjustable Width)
 - Anti-Lava Casting after certain height
 
 ## Contributing
